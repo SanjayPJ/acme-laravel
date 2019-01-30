@@ -1,0 +1,15 @@
+name: Acme
+description: 'simple bootswatch theme'
+author: 'Sanjay PJ'
+homepage: ''
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The Global Website Name
+      default: Acme
+    site_description:
+      label: Site Description
+      comment: The Global Website Description
+      default: Some Dummy Text
